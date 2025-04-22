@@ -17,3 +17,36 @@ Para acessar nossos serviços ou contribuir com o projeto, siga os passos abaixo
    ```bash
    git clone https://github.com/seuusuario/culinaria-computacional.git
    cd culinaria-computacional
+   ```
+
+2. Instale as dependências (caso o projeto seja em Node.js por exemplo):
+   ```bash
+   npm install
+   ```
+
+3. Execute o projeto localmente:
+   ```bash
+   npm start
+   ```
+
+## 🛠️ Tecnologias Utilizadas
+
+- JavaScript / Node.js
+- Python
+- React / React Native
+- APIs de Machine Learning
+- Bancos de Dados SQL e NoSQL
+
+## 📫 Contato
+
+Quer colaborar ou saber mais? Entre em contato conosco:
+
+- Site: [www.culinariacomputacional.com](http://www.culinariacomputacional.com)
+- Email: contato@culinariacomputacional.com
+- Instagram: [@culinaria_computacional](https://instagram.com/culinaria_computacional)
+
+---
+
+_Culinária Computacional – onde o código encontra o sabor._
+```
+
